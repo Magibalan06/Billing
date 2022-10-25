@@ -1,0 +1,37 @@
+
+.pink {
+    display: flex;
+}
+
+.bill {
+    margin: 2% 0% 2% 2%;
+}
+
+.customerMail {
+    display: flex;
+    margin: 3% 0% 3% 2%;
+    
+}
+.inputEmail {
+    width: 250px;
+    margin-left: 25px;
+    border: none;
+    background-color: rgb(196, 223, 239);
+    color: black;
+}
+.billSection {
+    display: flex;
+    justify-content: space-between;
+    margin: 3% 2% 1%;
+}
+.totalAmount{
+    display: flex;
+    margin-left: -5.3%;
+    /* margin-bottom: 50px; */
+    background-color: rgb(211, 211, 211);
+    padding: 3% 0;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    background-color: rgb(196, 223, 239);
+    border: none;
+}
